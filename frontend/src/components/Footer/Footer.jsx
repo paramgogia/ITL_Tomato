@@ -28,14 +28,14 @@ const Footer = () => {
                 <h2>GET IN TOUCH</h2>
                 <ul>
                     <li>+94 9356236842</li>
-                    <li>param.gogia22@spit.ac.in</li>
+                    <li>itltomato@email.com</li>
                 </ul>
             </div>
            
         </div>
         <hr />
         <p className="footer-copyright">
-            Copyright 2024 &copy; ITL_Param - All Right Reserved.
+            Copyright 2024 &copy; ITL_Tomato - All Right Reserved.
         </p>
     </div>
   )
